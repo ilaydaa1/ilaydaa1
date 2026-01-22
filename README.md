@@ -19,5 +19,7 @@ backend systems, and data-driven applications.
 - Backend architecture and security
 - Scalable system design
 - Clean code and documentation practices
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilaydaa1&show_icons=true&theme=default)
+
 
 📫 GitHub is where I document and share my projects.
