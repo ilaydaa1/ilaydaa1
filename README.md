@@ -1,4 +1,6 @@
 ## Hi, I’m İlayda 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydaa1&layout=compact&hide=c,cpp)
+
 
 Computer Engineering student with hands-on experience in full-stack web development,
 backend systems, and data-driven applications.
@@ -19,7 +21,5 @@ backend systems, and data-driven applications.
 - Backend architecture and security
 - Scalable system design
 - Clean code and documentation practices
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilaydaa1&show_icons=true&theme=default)
-
 
 📫 GitHub is where I document and share my projects.
