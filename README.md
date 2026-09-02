@@ -38,20 +38,6 @@ A Computer Engineering capstone project for building domain-specific expert agen
 
 ---
 
-### [Custom Grafana Panel Plugin](https://github.com/ilaydaa1/ik-panel-plugin)
-
-A configurable Grafana visualization plugin that analyzes query results directly within dashboards.
-
-* Calculates average, current, minimum, and maximum values
-* Performs rule-based system-state classification
-* Detects anomalies using dynamic thresholds
-* Provides customizable display options and responsive panel behavior
-* Containerized and tested within a Grafana environment
-
-**Technologies:** TypeScript, Grafana Plugin SDK, Docker, CSS Modules
-
----
-
 ## Technical Skills
 
 | Area                       | Technologies                                                           |
